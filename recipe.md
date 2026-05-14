@@ -1,4 +1,4 @@
-# Delicious Chocolate Cake Recipe
+# Delicious Chocolate Cake Recipe by Ericsson
 
 ## Ingredients:
 - 2 cups all-purpose flour
